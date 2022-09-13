@@ -1,4 +1,4 @@
-Aprendendo React, neste caso, aplicações do useState, useEffect e useContext em um site. Página com os submenus realizados semelhantes ao do site da plataforma Stripe. Totalmente responsivo. Possui as seguintes funcionalidades:
+Aprendendo React, neste caso, aplicações do useState, useEffect e useContext em um site. Página com os submenus semelhantes ao do site da plataforma Stripe. Totalmente responsivo. Possui as seguintes funcionalidades:
 
 - Ao passar o mouse em cima da categoria, os submenus são exibidos
 - Responsividade
